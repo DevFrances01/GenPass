@@ -3,7 +3,7 @@
 Este projeto é um gerador de e-mails e senhas aleatórias em **C++**. Ele permite que o usuário defina qualquer nome e gere automaticamente um e-mail aleatório com domínios comuns, como **Hotmail**, além de criar uma senha segura com o tamanho especificado. 
 O programa não utiliza bibliotecas gráficas, sendo executado exclusivamente via terminal
 ---------------------------------------------------------------------------
-
+<img src="gerado.jpg" alt="">
 
 ## 📌 Funcionalidades
 
